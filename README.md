@@ -1,2 +1,3 @@
 # css-notes
-Note about css best practice
+
+1. Use css reset. Meyer's css reset would be enough.
